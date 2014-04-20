@@ -2,7 +2,7 @@
 #require 'rack'
 
 module Zaakpay  
-  Key = "6cde037292804370bf7ec8950239d053"
+  Key = "9b1034984add4266bd597ec9d76a65eb"
 
   # This is where the checksum generation happens
   # arguements: a parameters hash.  
