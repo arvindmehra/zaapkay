@@ -1,8 +1,8 @@
 ZaakpayDemo::Application.routes.draw do
 
-  match 'merchant_test'   => 'payments#merchant_test'
-  match 'post_to_zaakpay' => 'payments#post_to_zaakpay'
-  match 'z_response'      => 'payments#z_response'
+  get 'payments/merchant_test'
+  post 'payments/post_to_zaakpay'
+  get  'payments/z_response'
   
   # The priority is based upon order of creation:
   # first created -> highest priority.
