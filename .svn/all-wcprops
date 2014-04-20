@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1299/merchant_kits/Zaakpay_Ruby_Kit
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/.gitignore
+END
+test_card_numbers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/test_card_numbers.txt
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/Gemfile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/README
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/Gemfile.lock
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/config.ru
+END

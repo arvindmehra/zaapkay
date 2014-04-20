@@ -1,0 +1,34 @@
+10
+
+dir
+2214
+https://subversion.assembla.com/svn/bo9sDM27Cr367keJe5cbCb/merchant_kits/Zaakpay_Ruby_Kit/app/views
+https://subversion.assembla.com/svn/bo9sDM27Cr367keJe5cbCb
+
+
+
+2011-12-28T12:11:08.056711Z
+1273
+sudarshan.purohit
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba28864b-b13a-4d69-9b8a-c5a5d6b2c975
+
+layouts
+dir
+
+payments
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/config/environments
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/config/environments/production.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/config/environments/test.rb
+END

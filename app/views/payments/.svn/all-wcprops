@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1273/merchant_kits/Zaakpay_Ruby_Kit/app/views/payments
+END
+merchant_test.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1246/merchant_kits/Zaakpay_Ruby_Kit/app/views/payments/merchant_test.html.erb
+END
+z_response.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1162/merchant_kits/Zaakpay_Ruby_Kit/app/views/payments/z_response.html.erb
+END
+post_to_zaakpay.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/bo9sDM27Cr367keJe5cbCb/!svn/ver/1273/merchant_kits/Zaakpay_Ruby_Kit/app/views/payments/post_to_zaakpay.html.erb
+END
